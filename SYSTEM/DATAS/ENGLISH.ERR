@@ -1,0 +1,180 @@
+0001;3;0;Runtime;Code manager;Invalid function number
+0002;3;0;Runtime;File manager;File not found
+0003;3;0;Runtime;File manager;Path not found
+0004;2;0;Runtime;File manager;Too many open files
+0005;3;0;Runtime;File manager;File access denied
+0006;3;0;Runtime;File manager;Invalid file handle
+0012;3;0;Runtime;File manager;Invalid file access code
+0015;3;0;Runtime;File manager;Invalid drive number
+0016;3;0;Runtime;File manager;Cannot remove current directory
+0017;3;0;Runtime;File manager;Cannot rename across drives
+0018;4;0;Runtime;File manager;No more files
+0100;3;0;Runtime;File manager;Disk read error
+0101;3;0;Runtime;File manager;Disk write error
+0102;3;0;Runtime;File manager;File not assigned
+0103;3;0;Runtime;File manager;File not open
+0104;3;0;Runtime;File manager;File not open for input
+0105;3;0;Runtime;File manager;File not open for output
+0106;3;0;Runtime;File manager;Invalid numeric format
+0150;3;0;Runtime;File manager;Disk is write-protected
+0151;3;0;Runtime;File manager;Bad drive request struct length
+0152;4;0;Runtime;File manager;Drive not ready
+0154;3;0;Runtime;File manager;CRC error in data
+0156;3;0;Runtime;File manager;Disk seek error
+0157;3;0;Runtime;File manager;Unknown media type
+0158;3;0;Runtime;File manager;Sector Not Found
+0159;3;0;Runtime;Printer manager;Printer out of paper
+0160;3;0;Runtime;Device manager;Device write fault
+0161;3;0;Runtime;Device manager;Device read fault
+0162;2;0;Runtime;Kernel manager;Hardware failure
+0200;2;1;Runtime;Kernel manager;Division by zero
+0201;2;0;Runtime;Kernel manager;Range check error
+0202;1;1;Runtime;Kernel manager;Stack overflow error
+0203;1;1;Runtime;Kernel manager;Heap overflow error
+0204;2;0;Runtime;Kernel manager;Invalid pointer operation
+0205;2;0;Runtime;Kernel manager;Floating point overflow
+0206;2;0;Runtime;Kernel manager;Floating point underflow
+0207;2;0;Runtime;Kernel manager;Invalid floating point operation
+0208;2;0;Runtime;Kernel manager;Overlay manager not installed
+0209;2;0;Runtime;Kernel manager;Overlay file read error
+0210;3;1;Runtime;Code manager;Object not initialized
+0211;3;1;Runtime;Code manager;Call to abstract method
+0212;3;0;Runtime;Kernel manager;Stream registration error
+0213;3;0;Runtime;Kernel manager;Collection index out of range
+0214;3;0;Runtime;Kernel manager;Collection overflow error
+0215;2;0;Runtime;Kernel manager;Arithmetic overflow error
+0216;1;0;Runtime;Kernel manager;General Protection fault
+0500;2;0;MOS;Memory manager;Allocation memory Error for Windows Swapping
+0501;2;0;MOS;Memory manager;Cannot allocate more than 3 screens for Windows Swapping
+0502;2;0;MOS;Memory manager;Not enough memory
+0503;2;0;MOS;File manager;Disk full - Can't write Swap File
+0504;2;0;MOS;File manager;Swap File not found
+0505;2;0;MOS;File manager;Swap Path not found
+0506;2;0;MOS;File manager;Unable to allocate Swap space
+0507;2;0;MOS;Memory manager;Insufficient memory for swapping MOS
+0508;2;0;MOS;Program manager;Execute initialisation error
+0509;3;0;MOS;Program manager;MOS file swapping already exist
+0510;3;1;MOS;Font manager;Cannot link Font with current Program
+0511;3;1;MOS;Driver manager;Cannot link Driver with current Program
+0512;3;0;MOS;Mouse manager;Unknown Mouse type
+0513;2;1;MOS;Mouse manager;Mouse driver not loaded|You cannot use your Mouse
+0519;2;0;MOS;Memory manager;Free memory is below than 64 Kb|Please note MOS needs 64 Kb to run correctly
+0520;3;0;MOS;Window manager;Window size out of ranges
+0521;3;0;MOS;Window manager;Second Window coordinates out of ranges
+0522;3;0;MOS;Window manager;Max or Min Window size out of ranges
+0523;3;0;MOS;Window manager;Window bars parameters Error
+0524;3;0;MOS;Component manager;Invalid Slider type
+0525;3;0;MOS;Window manager;Window limits are out of screen
+0526;2;0;MOS;Window manager;Maximum quantity of opened Windows has been reached|Please define more handles in CONFIG.SYS
+0530;3;0;MOS;Configuration manager;This is not a MOS Configuration file
+0531;3;0;MOS;Configuration manager;Cannot have access to Configuration file
+0532;3;0;MOS;Configuration manager;Command line Error in Configuration file
+0533;2;0;MOS;Kernel manager;Locale file (for language) not found
+0534;3;0;MOS;Configuration manager;Cannot write the Configuration file. Write protected support
+0537;0;0;MOS;Kernel manager;[Reserved]
+0538;0;0;MOS;Kernel manager;[Reserved]
+0539;0;0;MOS;Kernel manager;[Reserved]
+0540;0;0;MOS;Kernel manager;[Reserved]
+0541;3;0;MOS;Kernel manager;Unknow Requested Language
+0560;3;0;MOS;File manager;File open error
+0561;3;0;MOS;File manager;File not specified
+0562;3;0;MOS;File manager;Cannot create file
+0570;3;1;MOS;Kernel manager;Illegal parameter in command line
+0573;3;1;MOS;Kernel manager;Too much columns defined in list
+0574;4;0;MOS;Configuration manager;Configuration file correctly saved
+0575;3;0;MOS;Configuration manager;Cannot found specified initialisation file
+0580;3;0;MOS;Printer manager;Printer not connected
+0581;3;0;MOS;Printer manager;Printer is offline
+0582;3;0;MOS;Printer manager;Printer is out of paper
+0583;3;0;MOS;Printer manager;Printer is turned off
+0584;3;0;MOS;Printer manager;Printer device is not ready
+0590;2;0;MOS;Menu manager;Menu defined out of range
+0591;2;0;MOS;Menu manager;Popup menu coordinates out of range
+0592;2;0;MOS;Menu manager;Popup menu data file not found
+0593;2;0;MOS;Menu manager;Popup menu data file is empty
+0600;3;0;MOS;Mouse manager;Illegal parameter for Mouse Pointer
+0601;3;0;MOS;Keyboard manager;Illegal parameter for Cursor Style
+0602;3;0;MOS;Keyboard manager;Illegal parameters for Set SpeedKey
+0610;4;0;MOS;Mouse manager;Invalid parameters for Mouse Position
+0611;3;0;MOS;Mouse manager;Invalid parameters for Mouse Buttons
+0612;3;0;MOS;Mouse manager;Invalid parameters for Mouse Range
+0630;3;0;MOS;Graphic manager;RGB Values must be in Range 0-63
+0640;3;0;MOS;File manager;Selected Device cannot exist
+0641;3;0;MOS;File manager;Invalid Directory type
+0650;3;0;MOS;Interface manager;Invalid ranges parameters for defined Box
+0660;3;0;MOS;Demo manager;Cannot create demo|Function only available for registered users
+0661;3;0;MOS;Demo manager;You must specify a data filename to create your demo
+0662;3;0;MOS;Demo manager;Data file for demo not found
+0663;3;0;MOS;Demo manager;Not a MOS demo file
+0664;3;0;MOS;Demo manager;Error while reading the Demo file
+0665;4;0;MOS;Demo manager;Video mode is not the same than the one specified in the demo
+0670;3;0;MOS;Kernel manager;Function only enabled for registered users
+0680;4;1;MOS;Kernel manager;Incorrect action for MOS System Library
+0681;4;1;MOS;Kernel manager;MOS library cannot be used externally
+0682;4;0;MOS;Kernel manager;MOS Program not Found
+0683;3;0;MOS;Kernel manager;Cannot found MOS System Library
+0684;2;0;MOS;Kernel manager;Unknown specified System Path
+0685;2;1;MOS;Kernel manager;This application cannot be launched under this system version.|Please install a more recent MOS system.
+0690;4;0;MOS;Interface manager;Screen Blanker not found
+0700;3;1;MOS;Graphic manager;Cannot display image without VESA graphics support
+0701;3;0;MOS;Graphic manager;Error while displaying BMP image
+0702;3;1;MOS;Graphic manager;Cannot display BMP images in this mode
+0703;3;1;MOS;Graphic manager;Can display only 256 Colors BMP files in this configuration
+0710;3;0;MOS;Graphic manager;File is not a Windows BitMaP file
+0711;3;0;MOS;Graphic manager;File is not a Compuserve GIF file
+0712;3;0;MOS;Graphic manager;File is not a standard Graphic format
+0715;3;0;MOS;Graphic manager;File is not a MGF Graphic format
+0716;3;1;MOS;Graphic manager;Cannot display 2 colors BMP
+0717;3;1;MOS;Graphic manager;Cannot display 16 Millions colors BMP
+0718;1;0;MOS;Graphic manager;Need 256 colors at least to run application
+0720;3;0;MOS;Graphic manager;Graphic file not found, try again
+0721;3;0;MOS;Graphic manager;Incorrect size in BMP file
+0722;3;0;MOS;Graphic manager;Incorrect Display coordinates for BMP Image
+0730;3;0;MOS;Graphic manager;Error while reading icon file
+0750;2;1;MOS;Program manager;MOS_SWAP Unit not specified during compilation
+0755;3;1;MOS;Program manager;PV.EXE not found in SYSTEM directory
+0756;3;1;MOS;Program manager;MGF.EXE graphic converter not found in SYSTEM directory
+0790;3;1;MOS;File manager;Bits list DataSource file not found
+0800;3;0;MOS;Sound manager;Allocation memory error for sounds
+0801;3;1;MOS;Sound manager;Failed to reset Sound Blaster
+0802;3;1;MOS;Sound manager;Set Blaster must be defined in AUTOEXEC.BAT
+0805;3;0;MOS;Sound manager;Error while reading WAV file
+0810;4;0;MOS;Sound manager;WAV File not found
+0811;4;0;MOS;Sound manager;Not a WAV file format
+0812;4;0;MOS;Sound manager;You must specify a filename to play sound
+0850;2;1;MOS;Network manager;Novell Network is down
+0900;4;1;MOS;XMS manager;The function is not implemented
+0901;4;1;MOS;XMS manager;A VDISK device is detected
+0902;3;0;MOS;XMS manager;An A20 error occurs
+0914;2;0;MOS;XMS manager;A general driver error occurs
+0915;2;0;MOS;XMS manager;An unrecoverable driver error occurs
+0916;3;0;MOS;XMS manager;The HMA does not exist
+0917;3;0;MOS;XMS manager;The HMA is already in use
+0918;3;0;MOS;XMS manager;DX is less than the /HMAMIN=Parameter
+0919;3;0;MOS;XMS manager;The HMA is not allocated
+0920;3;0;MOS;XMS manager;The A20 line is still enabled
+0932;2;0;MOS;XMS manager;All extended memory is allocated
+0933;2;0;MOS;XMS manager;All available extended memory handles are in use
+0934;3;0;MOS;XMS manager;The handle is invalid
+0935;3;0;MOS;XMS manager;The Source Handle is invalid
+0936;3;0;MOS;XMS manager;The Source Offset is invalid
+0937;3;0;MOS;XMS manager;The Destination Handle is invalid
+0938;3;0;MOS;XMS manager;The Destination Offset is invalid
+0939;3;0;MOS;XMS manager;The Length is invalid
+0940;3;0;MOS;XMS manager;The move has an invalid overlap
+0941;3;0;MOS;XMS manager;A parity error occurs
+0942;3;0;MOS;XMS manager;The block is not locked
+0943;3;0;MOS;XMS manager;The block is locked
+0944;3;0;MOS;XMS manager;The block's lock count overflows
+0945;3;0;MOS;XMS manager;The lock fails
+0948;4;0;MOS;XMS manager;A smaller UMB is available
+0949;3;0;MOS;XMS manager;No UMBs are available
+0950;3;0;MOS;XMS manager;The UMB segment number is invalid
+0964;2;1;MOS;XMS manager;HIMEM.SYS is not installed in memory
+0965;2;1;MOS;XMS manager;The version of HIMEM.SYS is less than 3.0
+0966;2;0;MOS;XMS manager;All the XMS memory is full
+0967;2;0;MOS;XMS manager;Not enough XMS memory
+0974;3;0;MOS;XMS manager;GetImage_XMS/PutImage_XMS Error
+0975;3;0;MOS;XMS manager;Cannot capture more than 1 megabyte of video memory
+0976;3;0;MOS;XMS manager;Insuficient conventional memory for PutImage_XMS
+XXXX;0;0;MOS;Kernel manager;Unknown Error Type

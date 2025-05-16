@@ -1,0 +1,180 @@
+0001;3;0;Runtime;Code manager;Numero de funcion incorrecta
+0002;3;0;Runtime;File manager;Fichero no hallado
+0003;3;0;Runtime;File manager;Camino no hallado
+0004;2;0;Runtime;File manager;Demasiado ficheros abiertos
+0005;3;0;Runtime;File manager;Acceso al fichero prohibido
+0006;3;0;Runtime;File manager;Identificador de fichero incorrecto
+0012;3;0;Runtime;File manager;Codigo de acceso al fichero incorrecto
+0015;3;0;Runtime;File manager;Numero de lector incorrecto
+0016;3;0;Runtime;File manager;Supresion del repertorio pedido imposible
+0017;3;0;Runtime;File manager;Lector no puede ser nombrado de nuevo
+0018;4;0;Runtime;File manager;No hay mas ficheros
+0100;3;0;Runtime;File manager;Error de lectura del disco
+0101;3;0;Runtime;File manager;Error de escritura sobre el disco
+0102;3;0;Runtime;File manager;Fichero no assignado
+0103;3;0;Runtime;File manager;Fichero no abierto
+0104;3;0;Runtime;File manager;Fichero no abierto en escritura
+0105;3;0;Runtime;File manager;Fichero no abierto en lectura
+0106;3;0;Runtime;File manager;Tamano numerico incorrecto
+0150;3;0;Runtime;File manager;El lector es protegido en escritura
+0151;3;0;Runtime;File manager;Mala larga de estructura por el lector pedido
+0152;4;0;Runtime;File manager;Lector no dispuesto
+0154;3;0;Runtime;File manager;Error de CRC en el fichero
+0156;3;0;Runtime;File manager;Error de buscar sobre el disco
+0157;3;0;Runtime;File manager;Tipo de media no conocido
+0158;3;0;Runtime;File manager;Sector no encuentro
+0159;3;0;Runtime;Printer manager;Papel terminado en la impresora
+0160;3;0;Runtime;Device manager;Falta de escritura sobre la maquina
+0161;3;0;Runtime;Device manager;Falta de lectura sobre la maquina
+0162;2;0;Runtime;Kernel manager;Error de material importante
+0200;2;1;Runtime;Kernel manager;Division por zero
+0201;2;0;Runtime;Kernel manager;Error de test de limitas
+0202;1;1;Runtime;Kernel manager;Error de superacion de pila
+0203;1;1;Runtime;Kernel manager;Error de superacion de monton
+0204;2;0;Runtime;Kernel manager;Indentificador de memoria incorrecto
+0205;2;0;Runtime;Kernel manager;Operacion en coma flotante adelantada
+0206;2;0;Runtime;Kernel manager;Operacion en coma flotante demasiado pequena
+0207;2;0;Runtime;Kernel manager;Operacion en coma flotante incorrecta
+0208;2;0;Runtime;Kernel manager;Gestor de Overlay no abrido
+0209;2;0;Runtime;Kernel manager;Error de lectura de Overlay
+0210;3;1;Runtime;Code manager;Objecto no initialisado
+0211;3;1;Runtime;Code manager;Llamada a una methoda abstracta
+0212;3;0;Runtime;Kernel manager;Error de registro de Stream
+0213;3;0;Runtime;Kernel manager;Indice de coleccion fuera de limitas
+0214;3;0;Runtime;Kernel manager;Error de superacion de coleccion
+0215;2;0;Runtime;Kernel manager;Error de superacion aritmetica
+0216;1;0;Runtime;Kernel manager;Falta de proteccion general
+0500;2;0;MOS;Memory manager;Error de asignacion de memoria por la gestion de las ventanas
+0501;2;0;MOS;Memory manager;Imposible de asignar mas de 3 paginas por la gestion de la ventanas
+0502;2;0;MOS;Memory manager;No bastante memoria
+0503;2;0;MOS;File manager;Disco lleno - Imposible de escribir el fichero de cambio
+0504;2;0;MOS;File manager;Fichero de cambio no encuentro
+0505;2;0;MOS;File manager;Camino del fichero de cambio no encuentro
+0506;2;0;MOS;File manager;Imposible de asignar memoria por el fichero de cambio
+0507;2;0;MOS;Memory manager;Memoria insuficiente por salvaguardar MOS
+0508;2;0;MOS;Program manager;Error en la initialisacion de la ejecucion
+0509;3;0;MOS;Program manager;El fichero de cambio de MOS ya existe
+0510;3;1;MOS;Font manager;Imposible de atar la policia de caracteros pedido al programo
+0511;3;1;MOS;Driver manager;Imposible de atar el pilote pedido al programo
+0512;3;0;MOS;Mouse manager;Tipo de raton desconocido
+0513;2;1;MOS;Mouse manager;Piloto de raton no cargado|El raton no es utilizable
+0519;2;0;MOS;Memory manager;La memoria libra es bajo de 64 Ko|Para fonctionar correctamente, se debe tener 64 Ko de memoria
+0520;3;0;MOS;Window manager;Dimension de la ventana fuera limitas
+0521;3;0;MOS;Window manager;Coordinadas de la segunda posicion de la ventana fuera limitas
+0522;3;0;MOS;Window manager;Minima o maximo de las coordinadas de la ventana fuera limitas
+0523;3;0;MOS;Window manager;Error de parametros por las barras suporte de la ventana
+0524;3;0;MOS;Component manager;Tipo de ascensor incorrecto
+0525;3;0;MOS;Window manager;Limitas de la ventana fuera de la pantalla
+0526;2;0;MOS;Window manager;El nombre maximum de ventanas abiertas a sido alcanzado|Se debe definir mas Handles en el CONFIG.SYS
+0530;3;0;MOS;Configuration manager;No es un fichero de configuracion de MOS
+0531;3;0;MOS;Configuration manager;No puedo hallar el fichero de configuracion
+0532;3;0;MOS;Configuration manager;Error de interpretacion en el fichero de configuracion
+0533;2;0;MOS;Kernel manager;Fichero Locale (por la idioma) no hallado
+0534;3;0;MOS;Configuration manager;No se puede salvar el fichero de configuracion|Dico protegido
+0537;0;0;MOS;Kernel manager;[Reservado]
+0538;0;0;MOS;Kernel manager;[Reservado]
+0539;0;0;MOS;Kernel manager;[Reservado]
+0540;0;0;MOS;Kernel manager;[Reservado]
+0541;3;0;MOS;Kernel manager;La idioma pedida no es conocida
+0560;3;0;MOS;File manager;Error de abertura de fichero
+0561;3;0;MOS;File manager;Fichero no describido
+0562;3;0;MOS;File manager;No se puede crear el fichero
+0570;3;1;MOS;Kernel manager;Parametro incorrecto en la linea de commanda
+0573;3;1;MOS;Kernel manager;Demasiadas columnas en la lista
+0574;4;0;MOS;Configuration manager;Fichero de configuracion salvado sin problemas
+0575;3;0;MOS;Configuration manager;No puedo hallar el fichero de inicialisacion
+0580;3;0;MOS;Printer manager;Impresora no conectada
+0581;3;0;MOS;Printer manager;Impresora Offline
+0582;3;0;MOS;Printer manager;No hay papel en la impresora
+0583;3;0;MOS;Printer manager;Impresora apagada
+0584;3;0;MOS;Printer manager;La impresora no esta presta
+0590;2;0;MOS;Menu manager;Menudo definido afuera de las limitas
+0591;2;0;MOS;Menu manager;Popup menudo definido afuera de las limitas
+0592;2;0;MOS;Menu manager;Fichero del menudo Popup no hallado
+0593;2;0;MOS;Menu manager;Fichero del menudo Popup vacio
+0600;3;0;MOS;Mouse manager;Parametro incorrecto por la imagen del raton
+0601;3;0;MOS;Keyboard manager;Parametro incorrecto por el estilo del cursor
+0602;3;0;MOS;Keyboard manager;Parametro incorrecto por el teclado
+0610;4;0;MOS;Mouse manager;Parametro incorrecto por la posicion del raton
+0611;3;0;MOS;Mouse manager;Parametro incorrecto por las botons del raton
+0612;3;0;MOS;Mouse manager;Parametro incorrecto por las limitas del raton
+0630;3;0;MOS;Graphic manager;Las RGB colores deben ser incluidas entre 0 y 63
+0640;3;0;MOS;File manager;La salida seleccionada no existe
+0641;3;0;MOS;File manager;Tipo de selector de fichero incorrecto
+0650;3;0;MOS;Interface manager;Limitas incorrectas por la caja definida
+0660;3;0;MOS;Demo manager;Impossible de utilizar la demo|Es autorisado solamente por los utilizadores registrados
+0661;3;0;MOS;Demo manager;Es necesario specifiar un nombre de fichero para crear una demo
+0662;3;0;MOS;Demo manager;Impossible de localizar el fichero data por la demo
+0663;3;0;MOS;Demo manager;No es un fichero de Demo por MOS
+0664;3;0;MOS;Demo manager;Error durante la lectura del fichero de la Demo
+0665;4;0;MOS;Demo manager;El modo video no es el mismo que el especificado en la demo
+0670;3;0;MOS;Kernel manager;Es autorisado solamente por los utilizadores registrados
+0680;4;1;MOS;Kernel manager;Accion incorrecta por la biblioteca systemo de MOS
+0681;4;1;MOS;Kernel manager;La biblioteca MOS no puede ser utilisada externalmente
+0682;4;0;MOS;Kernel manager;Programo MOS no encontrado
+0683;3;0;MOS;Kernel manager;No puedo hallar la biblioteca systemo de MOS
+0684;2;0;MOS;Kernel manager;Camino systemo especificado no conocido
+0685;2;1;MOS;Kernel manager;Este programo no se puede ejecutar con esta version dels systemo MOS.|Se debe installar une nueva version.
+0690;4;0;MOS;Interface manager;Economisador de pantalla no hallado
+0700;3;1;MOS;Graphic manager;No es possible fijar una imagen sin el soporte VESA
+0701;3;0;MOS;Graphic manager;Error durante el calculo de la BMP
+0702;3;1;MOS;Graphic manager;No puedo fijar BMP imagenes en este modo
+0703;3;1;MOS;Graphic manager;Puedo fijar solamente BMP in 256 colores en este configuracion
+0710;3;0;MOS;Graphic manager;Eso fichero no es un fichero "Windows BitMaP file"
+0711;3;0;MOS;Graphic manager;Eso fichero no es un fichero "Compuserve GIF file"
+0712;3;0;MOS;Graphic manager;Eso fichero no es en un tamano graphico estandard
+0715;3;0;MOS;Graphic manager;Eso fichero no es un fichero Grafico MGF
+0716;3;1;MOS;Graphic manager;No puedo leer los BMP en 2 colores
+0717;3;1;MOS;Graphic manager;No puedo leer los BMP en 16 Miliones de colores
+0718;1;0;MOS;Graphic manager;Se necesita 256 colores para ejecutar el programo
+0720;3;0;MOS;Graphic manager;Fichero graphico pedido no encuentro
+0721;3;0;MOS;Graphic manager;Incorecto tamano en el fichero BMP
+0722;3;0;MOS;Graphic manager;Position incorecta por la imagen BMP
+0730;3;0;MOS;Graphic manager;Error de lectura de la icona
+0750;2;1;MOS;Program manager;La unitad MOS_SWAP no estaba especificada mientras la compilacion
+0755;3;1;MOS;Program manager;PV.EXE no encontrado en el repertorio SYSTEM
+0756;3;1;MOS;Program manager;MGF.EXE no encontrado en el repertorio SYSTEM
+0790;3;1;MOS;File manager;Fichero DataSource de lista de bits no encontrado
+0800;3;0;MOS;Sound manager;Error de memoria por los sonidos
+0801;3;1;MOS;Sound manager;No puedo initialisar la carta Sound Blaster
+0802;3;1;MOS;Sound manager;Set Blaster debe ser definida en el AUTOEXEC.BAT
+0805;3;0;MOS;Sound manager;Error durante la lectura del sonido WAV
+0810;4;0;MOS;Sound manager;Fichero WAV no hallado
+0811;4;0;MOS;Sound manager;No es un fichero WAV
+0812;4;0;MOS;Sound manager;Se debe especificar un nombre de fichero para jugar un sonido
+0850;2;1;MOS;Network manager;Red Novell no Presente
+0900;4;1;MOS;XMS manager;La funcion no es autorizada
+0901;4;1;MOS;XMS manager;El TSR VDISK es detectado
+0902;3;0;MOS;XMS manager;Error A20 capturado
+0914;2;0;MOS;XMS manager;Error general de piloto
+0915;2;0;MOS;XMS manager;Error irreparable de piloto
+0916;3;0;MOS;XMS manager;La memoria HMA no existe
+0917;3;0;MOS;XMS manager;La memoria HMA es siempre utilisada
+0918;3;0;MOS;XMS manager;DX es inferior al parametro /HMAMIN del CONFIG.SYS
+0919;3;0;MOS;XMS manager;La memoria HMA no es asignada
+0920;3;0;MOS;XMS manager;La linea A20 no es autorisada
+0932;2;0;MOS;XMS manager;La totalidad de la memoria extendida es asignada
+0933;2;0;MOS;XMS manager;Todos los Handles de la memoria extendida son utilisados
+0934;3;0;MOS;XMS manager;El handle es incorecto
+0935;3;0;MOS;XMS manager;El origen Handle es incorecto
+0936;3;0;MOS;XMS manager;El origen Offset es incorecto
+0937;3;0;MOS;XMS manager;La destinacion Handle es incorecta
+0938;3;0;MOS;XMS manager;La destinacion Offset es incorecta
+0939;3;0;MOS;XMS manager;El largo es incorecto
+0940;3;0;MOS;XMS manager;Destinacion e origen se cabalgan
+0941;3;0;MOS;XMS manager;Error de paridad
+0942;3;0;MOS;XMS manager;El bloque no es bloqueado
+0943;3;0;MOS;XMS manager;El bloque es bloqueado
+0944;3;0;MOS;XMS manager;Superacion del contador del bloqueo del bloque
+0945;3;0;MOS;XMS manager;El bloqueo a fallado
+0948;4;0;MOS;XMS manager;Un mas pequeno UMB es disponible
+0949;3;0;MOS;XMS manager;No UMBs disponible
+0950;3;0;MOS;XMS manager;El nombre del segmento UMB es incorecto
+0964;2;1;MOS;XMS manager;HIMEM.SYS no es installado in memoria
+0965;2;1;MOS;XMS manager;La version de HIMEM.SYS es inferior a 3.0
+0966;2;0;MOS;XMS manager;Toda la memoria XMS es llena
+0967;2;0;MOS;XMS manager;No bastante memoria XMS
+0974;3;0;MOS;XMS manager;Error de GetImage_XMS/PutImage_XMS
+0975;3;0;MOS;XMS manager;No puedo capturar mas de 1 megabyte de memoria video
+0976;3;0;MOS;XMS manager;Covencional memoria insuficiente por PutImage_XMS
+XXXX;4;0;MOS;Kernel manager;Tipo de error no conocido

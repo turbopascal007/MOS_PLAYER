@@ -1,0 +1,346 @@
+MOS File Type Manager
+
+[Header]
+EXE;AS;0000;MZ;DOS Executable File
+EXE;AS;0000;ZM;DOS Executable File (Old)
+EXE;AS;0000;NE;Windows OS/2 Executable File
+EXE;AS;0000;LE;Windows Virtual Device Driver
+EXE;AS;0000;LX;OS/2 Virtual Device Driver
+EXE;AS;0000;W3;Windows WIN386.EXE File
+EXE;AS;0000;PE;Windows NT Portable Executable File
+EXE;AS;0000;DL;HP 100LX/200LX System Manager Executable
+EXE;AS;0000;MP;Old PharLap Executable File
+EXE;AS;0000;P2;PharLap 286 Executable File
+EXE;AS;0000;P3;PharLap 386 Executable File
+EXE;AS;001C;RJSX;ARJ Old Self Extracting Archive
+EXE;AS;001C;LZ09;LZExe v0.90 Compressed Executable File
+EXE;AS;001C;LZ91;LZExe v0.91 Compressed Executable File
+EXE;AS;001E;PKLITE;Pklite Compressed Executable File
+EXE;AS;0025;LHarc's SFX ;LHarc v1.x Self Extracting Archive
+EXE;AS;0024;LHa's SFX ;LHarc v2.10 Self Extracting Archive
+EXE;AS;0024;LHA's SFX ;LHarc v2.13 Self Extracting Archive
+EXE;AS;0024;LH's SFX;LH Self Extracting Archive
+EXE;BI;001C;018A00011565;TopSpeed C v3.0 Compressed File
+EXE;BI;001C;000200010700;PKArc v3.5 Self Extracting Archive
+EXE;BI;001C;000FA7;BSA Self Extracting Archive
+EXE;AS;0020;SFX by LARC;LARC Self Extracting Archive
+EXE;AS;0000;RDOFF;RDOFF v1.1 Relocatable File
+BMP;AS;0000;BP;Windows Bitmap Image
+CEG;AS;0002;Edsun CEG;Continous Edge Graphic
+GIF;AS;0000;GIF87a;Graphic Interchange Format Image (87)
+GIF;AS;0000;GIF89a;Graphic Interchange Format Image (89)
+GRIB;AS;0000;GRIB;GRIB Satellite Image
+JPG;AS;0000;HSI1;JPEG Derivative Image
+ICO;BI;0000;00000001;Icon File
+IFF;AS;0000;FORM;IFF (Amiga) Image
+JPG;AS;0000;JFIF;JPEG Image
+PBM;AS;0000;P;DMGraph Image
+PIC;BI;0000;9119;PIC Uncompressed Image
+PIC;BI;0004;9500;PIC Pro Uncompressed Image
+PNG;BI;0000;89706E6713102610;Portable Network Graphics Image
+QFX;AS;0000;QLIIFAX;Quick Link II Fax Image
+*;AS;0000;RIFF;RIFF Image
+TIF;AS;0000;II;TIFF Image (Intel)
+TIF;AS;0000;MM;TIFF Image (Motorola)
+SGI;AS;0000;1DA;Silicon Graphic Image
+ANI;AS;0000;BABEEBEA;NEOchrome (Atari St) Animation
+SPC;AS;0000;SP;Spectrum 512 Compressed Image
+PAC;AS;0000;pM85;PAC (Atari St) Image
+PAC;AS;0000;pM86;PAC (Atari St) Image
+*;AS;0000;CAMG;Commodore Amiga Viewport Mode Chunk Id
+PSD;AS;0000;8BPS;Photoshop Image Format
+PPM;AS;0000;P3;Portable Pixmap Image
+RIX;AS;0000;RIX;RIX Image
+ICC;BI;0000;5B0720;ICC Kodak Image
+ARC;BI;0000;1A;ARC Archive
+ARJ;BI;0000;0EA60;ARJ Archive
+ZIP;BI;0000;218B;GZIP Archive
+HA;AS;0000;HA;HA Archive
+LZH;AS;0002;-lh;LHArc/LHA Archive
+LZH;AS;0002;-lz;LHArc/LHA Archive
+*;AS;0000;KWAJ;Microsoft Compress v6.22
+*;AS;0000;SZDD;Microsoft Compress v5.00
+SQZ;AS;0000;HLSQZ;Squiz Archive
+ZIP;BI;0000;706B0304;ZIPped Archive
+ZOO;BI;0014;0FDC4A7DC;ZOO Archive
+JAR;AS;0015;Jar;JAR Archive
+ANM;AS;0000;LPF ;DeluxePaint Animation
+COL;BI;0004;0B123;Color Palette
+FLC;BI;0004;AF12;Animator Pro Animation
+FLI;BI;0004;AF11;Flic Animation File
+PLY;BI;0007;99;Autodesk Animator Polygon File
+DVI;BI;0000;382C3831;Multimedia Format
+NG;AS;0000;NG;Norton Guide Document
+HLP;AS;0000;HSP;OS2 Help file
+HLP;BI;0000;00035F3F;Windows Help
+BGI;AS;0000;FBGD;Borland Graphic Driver
+CHR;BI;0000;706B0808;BGI Font
+CPI;AS;0000;ÿFONT   ;Country Datafile
+TPU;AS;0000;TPU9;Turbo Pascal Unit
+TPU;AS;0000;TPUQ;Turbo Pascal v7.0 Unit
+CAM;BI;0000;07204D4D;CAM QV-10 Datafile
+DMS;AS;0000;DMS!;Digital Music System
+669;AS;0000;if;669 Module
+669;AS;0000;JN;669 Extended Module
+DCM;AS;0000;WUFF;DCM Module
+DMF;AS;0000;DDMF;DMF Module (Digital Music File)
+DTM;AS;0000;SONG;DTM Module (DigiTrekker)
+FAR;AS;0000;FARþ;FAR Module (Farandole Composer)
+FNK;AS;0000;FUNK;FNK Module (FunckTracker)
+FPT;AS;0000;FPTþ;FPT Module (Farandole Pattern)
+FSM;AS;0000;FSMþ;FSM Module (Farandole Sample)
+IST;AS;0000;DIST;IST Module (Instrumental)
+IT;AS;0000;IMPM;IT Module (Impluse)
+MDL;AS;0000;DMDL;MDL Module (SongModule)
+MOD;AS;0438;M.K.;Noisetracker Module (Mahoney & Kaktus)
+MOD;AS;0438;FLT4;Startrekker Module (4 Chanels)
+MOD;AS;0438;FLT8;Startrekker Module (8 Chanels)
+MOD;AS;0438;EXO4;Startrekker Module (4 Chanels)
+MOD;AS;0438;EXO8;Startrekker Module (8 Chanels)
+MOD;AS;0438;4CHN;Protracker Module (4 Chanels)
+MOD;AS;0438;M!K!;Protracker Module (64 Patterns)
+MOD;AS;0438;6CHN;FastTracker Module (6 Chanels)
+MOD;AS;0438;8CHN;FastTracker Module (8 Chanels)
+MOD;AS;0438;16CH;TakeTracker Module (16 Chanels)
+MOD;AS;0438;32CH;TakeTracker Module (32 Chanels)
+MOD;AS;0438;CD81;Octalyser Module
+MOD;AS;0000;OKTASONG;Oktalyzer Module
+MOD;AS;0438;OCTA;Octamed Module
+MTM;AS;0000;MTM;MTM Module (Multi Tracker)
+MST;AS;0000;MTRAC ;MTS Module (Master Tracker Arkham)
+MOD;AS;0000;PS16þ;Protracker Studio 16 Module
+PTM;AS;002C;PTMF;PTM Module (Poly Tracker)
+S3I;AS;003C;SCRS;Digiplayer ST v3.0 Sample
+S3M;AS;002C;SCRM;S3M Module (ScreamTracker)
+MOD;AS;0000;SAdT;SADT Module
+SPL;AS;0000;DSPL;SPL Sample
+ULT;AS;0000;MAS_UTrack_V;ULT Module (UltraTracker)
+UWF;AS;0022;MUWFB;UWF Samples (UltraTracker)
+XM;AS;0000;Extended module;Extended Module
+MED;AS;0000;MMD;MED Module (Module Editor)
+ALM;AS;0000;Aley Mod;ALM v1.0 Module (Aley's Module)
+ALM;AS;0000;AleyMod;ALM v1.1/v1.2 Module (Aley's Module)
+AWE;AS;0000;AWE Module;AWE Module
+AMM;AS;0000;AMM;AMM Module (Audio Mannager)
+PSM;AS;0000;PSMþ;PSM Module (Protracker Studio)
+PTM;AS;002C;PTMF;PTM Module (Poly Tracker)
+PLM;AS;0000;PLM;PLM Module (Disorder Tracker 2)
+ASM;AS;0000;Extreme;AMS Module (Extreme Tracker v1.3)
+ASM;AS;0000;AMShdr;AMS Module (Velvet Studio v2.2)
+AU;AS;0000;.snd;Digital Audio Sound
+CMF;AS;0000;CTMF;CMF Module (Creative Labs Music)
+BNK;AS;0002;ADLIB-;BNK Sound (Bank)
+PAT;AS;0000;GFIPATCH110;GF1 Patch Sound (Gravis Ultrasound)
+IBK;AS;0000;IBK;IBK Instrument Bank
+MID;AS;0000;MThd;MIDI Module
+SBI;AS;0000;SBI;SBI Instrument (Sound Blaster FM)
+VOC;AS;0000;Creative Voice File;VOC Sound (Creative Voice)
+WAV;AS;0008;WAVE;WAV Sound (RIFF)
+ZYX;AS;0000;ZyXEL;ZyXEL Sound (Compressed)
+*;BI;0000;2E736E64;NeXT Sound
+IFF;AS;0008;8SVX;Amiga Sound (Future Audio)
+MUS;AS;0000;MUS;MUS Module (MIDI Clone)
+RAD;AS;0000;RAD by REALiTY!!;RAD Sound (RADical v1.0)
+WKS;BI;0000;0000020004;Worksheet/Spreadsheet (Lotus)
+WQ1;BI;0000;0000020051;Spreadsheet Borland Quattro Pro
+*;AS;0000;PDB3;SYLK Database (Symbolic Link)
+DOC;BI;0000;31BE00;Word Document (Microsoft)
+WPC;AS;0000;ÿWPC;Word Perfect Document (Microsoft)
+
+[Extention]
+BAT;Batch Script
+COM;Executable 
+EXE;Executable (Application)
+DLL;Executable (Loadable Windows)
+VBX;Executable (Loadable Visual Basic)
+VXD;Executable (Loadable)
+OVL;Overlay
+SYS;System Mannagement
+NLS;Netware Loadable Module
+LMP;Doom Demo
+WAD;Game Datas
+HXS;Hexen Datas
+DB;DBase Table
+DBF;DBase Table
+DBT;DBase Memos
+NDX;DBase Index
+SWG;Swag Database
+JHR;JAM Message Header
+JDT;JAM Message Text
+JDX;JAM Message Index
+JLR;JAM Last Read Information
+HTM;Internet Script (Hyper Text Markup Language)
+HTML;Internet Script (Hyper Text Markup Language)
+SHTML;Internet Script (Hyper Text Markup Language)
+QWK;Mail File
+CGI;Common Gateway Interface
+PAL;Palette Data
+CFG;Configuration
+INI;Initialisation
+TXT;Text
+ION;4DOS/NDOS Description
+BAK;Backup
+BIN;Binary
+OBJ;Object Code
+MAP;C/C++ Map Datafile
+PRJ;C/C++ Project
+H;C/C++ Source Header
+C;C Source
+CPP;C++ Source
+PRO;Prolog source
+PAS;Turbo Pascal Source
+BAS;Basic Source
+ASM;Assembler Source
+TPU;Turbo Pascal Unit
+TPL;Turbo Pascal Library
+TPP;Turbo Pascal (?)
+TPW;Turbo Pascal (?)
+ICO;Icon
+TGA;Targa Image
+TIF;TIF Image
+RAW;RAW Image
+IFF;IFF (Amiga) Image
+LBM;ILBM (Amiga) Image
+CEL;Animator Pro CEL Image
+PIC;Uncompressed Image
+JPG;JPEG Image
+PBM;DMGraph Image
+CEG;Continous Edge Graphic
+QFX;Quick Link II Fax Image
+WMF;Windows Metafile Image
+PCX;PCX Image
+TIF;TIFF Image
+BMP;Windows Bitmap Image
+GIF;Graphic Interchange Format Image
+XBM;X Bitmap Format Image
+RIX;RIX Image
+SGI;Silicon Graphic Image
+NEO;NEOchrome (Atari St) Image
+ANI;NEOchrome (Atari St) Animation
+SPC;Spectrum 512 Compressed Image
+BDF;Bitmap Distribution Format
+PSD;Photoshop Image Format
+PPM;Portable Pixmap Image
+ICC;ICC Kodak Image
+GL;GRASP Animation
+DVI;Multimedia Animation Format
+MOV;MOV Animation
+AVI;AVI Animation
+ANM;DeluxePaint Animation
+COL;Color Palette
+3DS;3D Studio Data
+FLI;Flic Animation
+FLC;Animator Pro Animation
+MPG;MPEG Animation
+GL;Graphic Animation
+MSK;Autodesk Animator Mask
+PLY;Autodesk Animator Polygon
+DFF;Animation File
+AU;Digital Audio Sound
+VOC;VOC Sound (Creative Voice)
+SND;RAW PCM Sound
+WAV;WAV Sound (RIFF)
+MP2;MPEG 2 Audio/Video
+MP3;MPEG 3 Audio Sound
+MID;MIDI Module
+MOD;Protracker (Amiga) Module
+S3M;Screamtracker Module
+XM;Extended Module
+ARC;ARC Archive
+ARJ;ARJ Archive
+DWC;DWC Archive
+JAR;JAR Archive
+HA;HA Archive
+HYP;Hyper Archiver File
+LZH;LHArc/LHA Archive
+SQZ;Squiz Archive
+RAR;RAR Archive
+TAR;Unix Tape Archive
+ZIP;ZIPped Archive
+ZOO;ZOO Archive
+SQI;Squish Message
+MSG;Message
+NFO;Generic Information
+BBS;BBS Information
+ME;Information
+HLP;Help Documentation
+DIZ;Generic Information
+FAQ;Frequently Asked Questions
+INF;Information
+TPH;Turbo Pascal Help
+DOC;Word Document (Microsoft)
+DOT;Word Macros (Microsoft)
+WRI;Write Document (Microsoft)
+XLS;Excel Document (Microsoft)
+GRP;Windows Group Information (Microsoft)
+RTF;Rich Text Format (Microsoft)
+PIF;Program Information (Microsoft)
+FON;Bitmap Font (Microsoft)
+TTF;True Type Font
+FNT;Bitmap Font
+CHR;BGI Font
+BGI;Borland Graphic Driver
+DAT;Miscellaneous Data
+BFF;Grammar Binary Format
+PGP;Pretty Good Privacy
+MRE;MOS Resource Editor
+DRV;Driver
+TD0;TrackDisk Data
+LIB;Microsoft Library
+ID;Disk Identification
+TMP;Temporary File
+BOO;Bootblock
+BTB;Bootblock
+MBR;Master Boot Record
+MS;Microsoft Antivirus Checksum
+VCL;Virus Creation Laboratory Data
+NG;Norton Guide Document
+CPI;Country Datafile
+CAM;CAM QV-10 Datafile
+DMS;Digital Music System
+669;669 Module
+AMS;AMS Module (Extreme Tracker)
+DCM;DCM Module
+DMF;DMF Module (Digital Music File)
+DTM;DTM Module (DigiTrekker)
+FAR;FAR Module (Farandole Composer)
+FNK;FNK Module (FunckTracker)
+FPT;FPT Module (Farandole Pattern)
+FSM;FSM Module (Farandole Sample)
+IST;IST Module (Instrumental)
+IT;IT Module (Impluse)
+MDL;MDL Module (SongModule)
+MOD;Protracker Module
+MTM;MTM Module (Multi Tracker)
+MTR;MTR Module (MasterTracker)
+MST;MTS Module (Master Tracker Arkham)
+S3I;Digiplayer ST v3.0 Sample
+S3M;S3M Module (ScreamTracker)
+SPL;SPL Sample
+STM;STM Module (ScreamTracker v1.0)
+UWF;UWF Samples (UltraTracker)
+MED;MED Module (Module Editor)
+WOW;WOW Grave Composer Module
+ALM;ALM Module (Aley's Module)
+AWE;AWE Module
+AMM;AMM Module (Audio Mannager)
+PSM;PSM Module (Protracker Studio)
+PTM;PTM Module (Poly Tracker)
+PLM;PLM Module (Disorder Tracker 2)
+CMF;CMF Module (Creative Labs Music)
+BNK;BNK Sound (Bank)
+D00;D00 Module (Adlib v4.01)
+EFE;EFE Instruments (Ensoniq Sampler System)
+PAT;GF1 Patch Sound (Gravis Ultrasound)
+GKH;GKH Disk Image (Ensoniq Sampler System)
+IBK;IBK Instrument Bank
+SBI;SBI Instrument (Sound Blaster FM)
+SDK;SDK Disk Image (Roland Sampler Device)
+SDS;MIDI Sample Dump Standart
+SDX;MIDI Sample Dump Standart
+TXW;TXW Disk Image (Yamaha TX-16W)
+ROL;ROL Sound (Adlib and Compatible Cards)
+MUS;MUS Module (MIDI Clone)
+RAD;RAD Sound (RADical v1.0)
+WKS;Worksheets/Spreadsheets (Lotus)
+WQ1;Spreadsheet Borland Quattro Pro

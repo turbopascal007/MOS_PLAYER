@@ -1,0 +1,180 @@
+0001;3;0;Runtime;Code manager;Numero de fonction invalide
+0002;3;0;Runtime;File manager;Fichier non trouv‚
+0003;3;0;Runtime;File manager;Chemin non trouv‚
+0004;2;0;Runtime;File manager;Trop de fichiers ouverts
+0005;3;0;Runtime;File manager;Acces au fichier interdit
+0006;3;0;Runtime;File manager;Handle de fichier invalide
+0012;3;0;Runtime;File manager;Code d'accŠs au fichier invalide
+0015;3;0;Runtime;File manager;Num‚ro de lecteur invalide
+0016;3;0;Runtime;File manager;Supression du r‚pertoire courant impossible
+0017;3;0;Runtime;File manager;Lecteur ne peut ˆtre renomm‚
+0018;4;0;Runtime;File manager;Pas plus de fichiers
+0100;3;0;Runtime;File manager;Erreur de lecture disque
+0101;3;0;Runtime;File manager;Erreur d'‚criture disque
+0102;3;0;Runtime;File manager;Fichier non assign‚
+0103;3;0;Runtime;File manager;Fichier non ouvert
+0104;3;0;Runtime;File manager;Fichier non ouvert en ‚criture
+0105;3;0;Runtime;File manager;Fichier non ouvert en lecture
+0106;3;0;Runtime;File manager;Format num‚rique invalide
+0150;3;0;Runtime;File manager;Le lecteur est prot‚g‚ en ‚criture
+0151;3;0;Runtime;File manager;Mauvaise longueur de structure pour le lecteur demand‚
+0152;4;0;Runtime;File manager;Lecteur non prˆt
+0154;3;0;Runtime;File manager;Erreur de CRC dans les donn‚es
+0156;3;0;Runtime;File manager;Erreur de recherche sur disque
+0157;3;0;Runtime;File manager;Type de m‚dia inconnu
+0158;3;0;Runtime;File manager;Secteur non trouv‚
+0159;3;0;Runtime;Printer manager;Papier absent dans l'imprimante
+0160;3;0;Runtime;Device manager;Faute d'‚criture sur le device
+0161;3;0;Runtime;Device manager;Faute de lecture sur le device
+0162;2;0;Runtime;Kernel manager;Erreur materielle importante
+0200;2;1;Runtime;Kernel manager;Division par z‚ro
+0201;2;0;Runtime;Kernel manager;Erreur de test de limites
+0202;1;1;Runtime;Kernel manager;Erreur de d‚passement de pile
+0203;1;1;Runtime;Kernel manager;Erreur de d‚passement du tas
+0204;2;0;Runtime;Kernel manager;Pointeur m‚moire invalide
+0205;2;0;Runtime;Kernel manager;Operation en virgule flottante d‚pass‚e
+0206;2;0;Runtime;Kernel manager;Operation en virgule flottante trop petite
+0207;2;0;Runtime;Kernel manager;Operation en virgule flottante invalide
+0208;2;0;Runtime;Kernel manager;Gestionnaire d'overlay non install‚
+0209;2;0;Runtime;Kernel manager;Erreur de lecture d'overlay
+0210;3;1;Runtime;Code manager;Objet non initialis‚
+0211;3;1;Runtime;Code manager;Appel … une m‚thode abstraite
+0212;3;0;Runtime;Kernel manager;Erreur d'enregistrement de Stream
+0213;3;0;Runtime;Kernel manager;Index de collection hors limites
+0214;3;0;Runtime;Kernel manager;Erreur de d‚passement de collection
+0215;2;0;Runtime;Kernel manager;Erreur de d‚passement arithm‚tique
+0216;1;0;Runtime;Kernel manager;Faute de protection g‚n‚rale
+0500;2;0;MOS;Memory manager;Erreur d'allocation de m‚moire pour la gestion des fenˆtres
+0501;2;0;MOS;Memory manager;Impossible d'allouer plus de 3 pages pour la gestion des fenˆtres
+0502;2;0;MOS;Memory manager;Pas assez de m‚moire
+0503;2;0;MOS;File manager;Disque plein. Impossible d'‚crire le fichier d'‚change
+0504;2;0;MOS;File manager;Fichier d'‚change non trouv‚
+0505;2;0;MOS;File manager;Chemin du fichier d'‚change non trouv‚
+0506;2;0;MOS;File manager;Impossible d'allouer de la m‚moire pour le fichier d'‚change
+0507;2;0;MOS;Memory manager;M‚moire insuffisante pour sauvegarder MOS
+0508;2;0;MOS;Program manager;Erreur d'initialisation de l'‚xecution d'un programme
+0509;3;0;MOS;Program manager;Le fichier d'‚change de MOS existe d‚ja
+0510;3;1;MOS;Font manager;Impossible de lier la police demand‚e au programme
+0511;3;1;MOS;Driver manager;Impossible de lier le pilote demand‚ au programme
+0512;3;0;MOS;Mouse manager;Type de souris inconnu
+0513;2;1;MOS;Mouse manager;Pilote de souris non charg‚|Vous ne pouvez pas utiliser votre souris
+0519;2;0;MOS;Memory manager;La m‚moire libre est infŠrieure a 64 Ko|Pour fonctionner correctement, MOS a besoin de 64 Ko
+0520;3;0;MOS;Window manager;Taille de la fenˆtre hors limites
+0521;3;0;MOS;Window manager;Coordonn‚es de la seconde position de la fenˆtre hors limites
+0522;3;0;MOS;Window manager;Minimum ou maximum des coordon‚es de la fenˆtre hors limites
+0523;3;0;MOS;Window manager;Erreur de parametres pour les barres support de la fenˆtre
+0524;3;0;MOS;Component manager;Type d'ascenseur invalide
+0525;3;0;MOS;Window manager;Limites de la fenˆtre en dehors de l'‚cran
+0526;2;0;MOS;Window manager;Le nombre maximum de fenˆtres ouvertes a ‚t‚ atteint|Veuillez d‚finir plus de Handles dans le CONFIG.SYS
+0530;3;0;MOS;Configuration manager;Ce n'est pas un fichier de configuration MOS
+0531;3;0;MOS;Configuration manager;Impossible de trouver le fichier de configuration
+0532;3;0;MOS;Configuration manager;Erreur d'interpr‚tation dans le fichier de configuration
+0533;2;0;MOS;Kernel manager;Fichier locale (pour le langage utilis‚) introuvable
+0534;3;0;MOS;Configuration manager;Impossible de sauvegarder le fichier de configuration|Support prot‚g‚ en ‚criture
+0537;0;0;MOS;Kernel manager;[R‚serv‚]
+0538;0;0;MOS;Kernel manager;[R‚serv‚]
+0539;0;0;MOS;Kernel manager;[R‚serv‚]
+0540;0;0;MOS;Kernel manager;[R‚serv‚]
+0541;3;0;MOS;Kernel manager;Le langage demand‚ est inconnu
+0560;3;0;MOS;File manager;Erreur d'ouverture de fichier
+0561;3;0;MOS;File manager;Fichier non specifi‚
+0562;3;0;MOS;File manager;Impossible de cr‚er le fichier
+0570;3;1;MOS;Kernel manager;Parametre invalide dans la ligne de commande
+0573;3;1;MOS;Kernel manager;Trop de colonnes d‚finies dans la liste
+0574;4;0;MOS;Configuration manager;Fichier de configuration correctement sauvegard‚
+0575;3;0;MOS;Configuration manager;Impossible de trouver le fichier d'initialisation demande
+0580;3;0;MOS;Printer manager;Imprimante non connect‚e
+0581;3;0;MOS;Printer manager;Imprimante Offline
+0582;3;0;MOS;Printer manager;Plus de papier dans l'imprimante
+0583;3;0;MOS;Printer manager;L'imprimante est ‚teinte
+0584;3;0;MOS;Printer manager;L'imprimante n'est pas prˆte
+0590;2;0;MOS;Menu manager;Menu d‚finit en dehors des limites
+0591;2;0;MOS;Menu manager;Coordonn‚es du menu Popup hors limites
+0592;2;0;MOS;Menu manager;Fichier de donn‚es du menu Popup non trouv‚
+0593;2;0;MOS;Menu manager;Fichier de donn‚es du menu Popup vide
+0600;3;0;MOS;Mouse manager;ParamŠtre invalide pour le pointeur de souris
+0601;3;0;MOS;Keyboard manager;ParamŠtre invalide pour le style de curseur
+0602;3;0;MOS;Keyboard manager;ParamŠtre invalide pour le clavier
+0610;4;0;MOS;Mouse manager;ParamŠtre invalide pour la position souris
+0611;3;0;MOS;Mouse manager;ParamŠtre invalide pour les boutons souris
+0612;3;0;MOS;Mouse manager;ParamŠtre invalide pour les limites de la souris
+0630;3;0;MOS;Graphic manager;Les valeurs RGB des couleurs doivent ˆtre comprises entre 0 et 63
+0640;3;0;MOS;File manager;Le device selectionn‚ n'existe pas
+0641;3;0;MOS;File manager;Type de s‚lecteur de fichier invalide
+0650;3;0;MOS;Interface manager;Limites invalides pour la boite d‚finie
+0660;3;0;MOS;Demo manager;Impossible d'utiliser la demo|Cette fonction n'est autoris‚e que pour les utilisateurs enregistr‚s
+0661;3;0;MOS;Demo manager;Vous devez sp‚cifier un nom de fichier pour l'enregistrement de votre d‚mo
+0662;3;0;MOS;Demo manager;Impossible de trouver le fichier de donn‚es pour la demo
+0663;3;0;MOS;Demo manager;Ce n'est pas un fichier D‚mo de MOS
+0664;3;0;MOS;Demo manager;Erreur durant la lecture du fichier D‚mo
+0665;4;0;MOS;Demo manager;Le mode vid‚o n'est pas le mˆme que celui|specifi‚ dans l'enregistrement de la d‚mo
+0670;3;0;MOS;Kernel manager;Cette fonction n'est autoris‚e que pour les utilisateurs enregistr‚s
+0680;4;1;MOS;Kernel manager;Action incorrecte pour la bibliothŠque systŠme de MOS
+0681;4;1;MOS;Kernel manager;La bibliothŠque MOS ne peut pas ˆtre utilis‚e en externe
+0682;4;0;MOS;Kernel manager;Programme MOS non trouv‚
+0683;3;0;MOS;Kernel manager;Impossible de trouver la BibliothŠque SystŠme de MOS
+0684;2;0;MOS;Kernel manager;Chemin SystŠme specifi‚ inconnu
+0685;2;1;MOS;Kernel manager;Cette application ne peux pas ˆtre ex‚cut‚e avec cette version du systŠme MOS.|Veuillez installer une version plus r‚cente.
+0690;4;0;MOS;Interface manager;Economiseur d'‚cran non trouv‚
+0700;3;1;MOS;Graphic manager;Impossible d'afficher une image sans le support VESA
+0701;3;0;MOS;Graphic manager;Erreur durant l'affichage de la BMP
+0702;3;1;MOS;Graphic manager;Impossible d'afficher une image BMP dans ce mode vid‚o
+0703;3;1;MOS;Graphic manager;Ne peux afficher que des BMP 256 couleurs dans cette configuration
+0710;3;0;MOS;Graphic manager;Ce fichier n'est pas au format "Windows BitMaP file"
+0711;3;0;MOS;Graphic manager;Ce fichier n'est pas au format "Compuserve GIF file"
+0712;3;0;MOS;Graphic manager;Ce fichier n'est pas dans un format graphique standard
+0715;3;0;MOS;Graphic manager;Ce fichier n'est pas au format MGF "MOS Graphique File"
+0716;3;1;MOS;Graphic manager;Impossible d'afficher les BMP 2 couleurs
+0717;3;1;MOS;Graphic manager;Impossible d'afficher les BMP 16 Millions de couleurs
+0718;1;0;MOS;Graphic manager;256 couleurs minimum sont requisent pour ex‚cuter l'application
+0720;3;0;MOS;Graphic manager;Fichier graphique demand‚ non trouv‚
+0721;3;0;MOS;Graphic manager;Taille incorrecte du fichier BMP
+0722;3;0;MOS;Graphic manager;Coordonn‚es de l'image BMP … afficher incorectes
+0730;3;0;MOS;Graphic manager;Erreur de lecture du fichier ic“ne
+0750;2;1;MOS;Program manager;Unit‚ MOS_SWAP non specifi‚e durant la compilation
+0755;3;1;MOS;Program manager;PV.EXE non trouv‚ dans le r‚pertoire SYSTEM
+0756;3;1;MOS;Program manager;MGF.EXE non trouv‚ dans le r‚pertoire SYSTEM
+0790;3;1;MOS;File manager;Fichier DataSource de liste de bits non trouv‚
+0800;3;0;MOS;Sound manager;Erreur d'allocation m‚moire pour les sons
+0801;3;1;MOS;Sound manager;Echec de l'initialisation de la carte Sound Blaster
+0802;3;1;MOS;Sound manager;La variable d'environnement Set Blaster doit ˆtre d‚finie dans l'AUTOEXEC.BAT
+0805;3;0;MOS;Sound manager;Erreur durant la lecture du fichier WAV
+0810;4;0;MOS;Sound manager;Fichier WAV introuvable
+0811;4;0;MOS;Sound manager;Ce n'est pas un fichier WAV
+0812;4;0;MOS;Sound manager;Vous devez sp‚cifier un nom de fichier pour jouer le son
+0850;2;1;MOS;Network manager;Reseau Novell absent
+0900;4;1;MOS;XMS manager;La fonction n'est pas impl‚ment‚e
+0901;4;1;MOS;XMS manager;Le r‚sident VDISK est d‚tect‚
+0902;3;0;MOS;XMS manager;Erreur A20 intercept‚e
+0914;2;0;MOS;XMS manager;Erreur g‚n‚rale de pilote
+0915;2;0;MOS;XMS manager;Erreur irr‚parable de pilote
+0916;3;0;MOS;XMS manager;La m‚moire HMA n'existe pas
+0917;3;0;MOS;XMS manager;La m‚moire HMA est d‚ja utilis‚e
+0918;3;0;MOS;XMS manager;DX est inferieur au paramŠtre /HMAMIN du CONFIG.SYS
+0919;3;0;MOS;XMS manager;La m‚moire HMA n'est pas allou‚e
+0920;3;0;MOS;XMS manager;La ligne A20 n'est pas autoris‚e
+0932;2;0;MOS;XMS manager;Toute la m‚moire ‚tendue est allou‚e
+0933;2;0;MOS;XMS manager;Tous les Handles de la m‚moire ‚tendue sont utilis‚s
+0934;3;0;MOS;XMS manager;Le handle est invalide
+0935;3;0;MOS;XMS manager;La source Handle est invalide
+0936;3;0;MOS;XMS manager;La source Offset est invalide
+0937;3;0;MOS;XMS manager;La destination Handle est invalide
+0938;3;0;MOS;XMS manager;La destination Offset est invalide
+0939;3;0;MOS;XMS manager;La longueur est invalide
+0940;3;0;MOS;XMS manager;Destination et source se chevauchent
+0941;3;0;MOS;XMS manager;Erreur de parit‚
+0942;3;0;MOS;XMS manager;Le bloc n'est pas bloqu‚
+0943;3;0;MOS;XMS manager;Le bloc est bloqu‚
+0944;3;0;MOS;XMS manager;D‚passement du compteur du blocage de bloc
+0945;3;0;MOS;XMS manager;Le blocage a ‚chou‚
+0948;4;0;MOS;XMS manager;Un plus petit UMB est disponible
+0949;3;0;MOS;XMS manager;Pas de UMBs disponible
+0950;3;0;MOS;XMS manager;Le num‚ro du segment UMB est invalide
+0964;2;1;MOS;XMS manager;HIMEM.SYS n'est pas install‚ en m‚moire
+0965;2;1;MOS;XMS manager;La version de HIMEM.SYS est inf‚rieure … 3.0
+0966;2;0;MOS;XMS manager;La m‚moire XMS est pleine
+0967;2;0;MOS;XMS manager;Pas assez de m‚moire XMS
+0974;3;0;MOS;XMS manager;Erreur dans un GetImage_XMS/PutImage_XMS
+0975;3;0;MOS;XMS manager;Impossibilit‚ de capturer plus de 1 m‚gaoctet de m‚moire vid‚o
+0976;3;0;MOS;XMS manager;M‚moire conventionnelle insuffisante pour le PutImage_XMS
+XXXX;4;0;MOS;Kernel manager;Type d'erreur inconnue
