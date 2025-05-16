@@ -1,0 +1,5 @@
+C;1; ;Stop music when quit
+C;1; ;Play tracks randomly
+C;1; ;Loop on track
+S;0;
+C;1; ;Use animations

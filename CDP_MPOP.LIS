@@ -1,0 +1,13 @@
+ ;1; ;About CDPlayer;F1
+ ;1; ;About MOS;F2
+ ;1; ;System;;CDP_SYST.LIS
+S;0;
+ ;0; ;Track;;CDP_MPLA.LIS
+ ;1; ;Skins manager;;CDP_SKMA.LIS
+ ;1; ;Options;;CDP_OPTI.LIS
+S;0;
+ ;0; ;Album information;Ctrl+A
+ ;0; ;Cd-Rom information
+S;0;
+ ;1; ;DOS Shell;Alt+D
+ ;1; ;Exit;Alt+X

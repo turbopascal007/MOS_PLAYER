@@ -1,0 +1,10 @@
+ ;1; ;Information;Ctrl+I
+S;0;
+ ;1; ;Play audio
+ ;1; ;Pause audio
+ ;1; ;Stop audio
+S;0;
+ ;1; ;Play next track
+ ;1; ;Play previous track
+ ;1; ;Play forward
+ ;1; ;Play backward
